@@ -11,7 +11,7 @@ module.exports = {
 
   // [OPTIONAL] This is the website icon to the left of the title inside the navigation bar. It should be placed under the
   // /public directory of your GitHub project (not your OneDrive folder!), and referenced here by its relative path to /public.
-  icon: '/icons/128.png',
+  icon: '/icons/stswlogo.png',
 
   // Prefix for KV Storage
   kvPrefix: process.env.KV_PREFIX || '',
@@ -58,11 +58,11 @@ module.exports = {
       link: 'https://github.com/STASWIT',
     },
     {
-      name: "bilibili",
+      name: "BiliBili",
       link: "https://space.bilibili.com/8532471",
     },
     {
-      name: "blog",
+      name: "Blog",
       link: "https://www.elicase.tech"
     }
   ],
