@@ -17,10 +17,10 @@ module.exports = {
   kvPrefix: process.env.KV_PREFIX || '',
 
   // The name of your website. Present alongside your icon.
-  title: "AuraElicase's OneDrive",
+  title: "AuraElicase的文件共享站",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
-  baseDirectory: '/',
+  baseDirectory: '/public',
 
   // [OPTIONAL] This represents the maximum number of items that one directory lists, pagination supported.
   // Do note that this is limited up to 200 items by the upstream OneDrive API.
@@ -38,7 +38,9 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    'Powered by <a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>. Made with ❤ by SpencerWoo.',
+    '构建框架： <a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a> \
+    网站所有： copyright © 星翛-STASWIT 2018 - 2022 \
+    ICP备案：<a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">闽ICP备2021013959号</a>',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
@@ -53,7 +55,15 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com/staswit/onedrive-vercel-index',
+      link: 'https://github.com/STASWIT',
+    },
+    {
+      name: "bilibili",
+      link: "https://space.bilibili.com/8532471",
+    },
+    {
+      name: "blog",
+      link: "https://www.elicase.tech"
     }
   ],
 
