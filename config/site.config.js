@@ -62,7 +62,7 @@ module.exports = {
       link: "https://space.bilibili.com/8532471",
     },
     {
-      name: "brackets-curly",
+      name: "Telegram",
       link: "https://www.elicase.tech"
     }
   ],
