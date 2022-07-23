@@ -38,9 +38,9 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    '构建框架： <a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>  \
-    网站所有： copyright © 星翛-STASWIT 2018 - 2022  \
-    ICP备案：<a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">闽ICP备2021013959号</a>  \
+    '构建框架： <a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>&nbsp;&nbsp;\
+    网站所有： copyright © 星翛-STASWIT 2018 - 2022&nbsp;&nbsp;\
+    ICP备案：<a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">闽ICP备2021013959号</a>&nbsp;&nbsp;\
     博客：<a href="https://www.elicase.tech/" target="_blank" rel="noopener noreferrer">https://www.elicase.tech/</a>',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
