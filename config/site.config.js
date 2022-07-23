@@ -58,11 +58,11 @@ module.exports = {
       link: 'https://github.com/STASWIT',
     },
     {
-      name: "Bilibili",
+      name: "bilibili",
       link: "https://space.bilibili.com/8532471",
     },
     {
-      name: "Blog",
+      name: "brackets-curly",
       link: "https://www.elicase.tech"
     }
   ],
