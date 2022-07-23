@@ -58,7 +58,7 @@ module.exports = {
       link: 'https://github.com/STASWIT',
     },
     {
-      name: "BiliBili",
+      name: "Bilibili",
       link: "https://space.bilibili.com/8532471",
     },
     {
