@@ -17,7 +17,7 @@ module.exports = {
   kvPrefix: process.env.KV_PREFIX || '',
 
   // The name of your website. Present alongside your icon.
-  title: "AuraElicase的文件共享站",
+  title: "祐星技术研究社文件共享站",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/public',
@@ -39,7 +39,7 @@ module.exports = {
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
     '构建框架： <a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer">onedrive-vercel-index</a>&nbsp;&nbsp;\
-    网站所有： copyright © 星翛-STASWIT 2018 - 2022&nbsp;&nbsp;\
+    网站所有： copyright © 祐星技术研究社 2018 - 2025&nbsp;&nbsp;\
     ICP备案：<a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">闽ICP备2021013959号</a>&nbsp;&nbsp;\
     博客：<a href="https://www.elicase.tech/" target="_blank" rel="noopener noreferrer">https://www.elicase.tech/</a>',
 
@@ -48,7 +48,7 @@ module.exports = {
   protectedRoutes: ['/🌞 Private folder/u-need-a-password', '/🥟 Some test files/Protected route'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: 'mailto:XingxiaoStaswit@outlook.com',
+  email: 'mailto:AuraElicase@outlook.com',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
